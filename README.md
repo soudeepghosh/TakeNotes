@@ -3,7 +3,7 @@
 ## Project Name: TakeNotes <br/>
 
 ### Technologies Used: <br/>
-  * **Backend:** Java, Servlet <br/>
+  * **Backend:** Core Java, Servlet, JDBC <br/>
   * **Frontend:** JSP, HTML, CSS, Bootstrap, Font Awesome <br/>
   * **Database:** MySQL <br/>
   * **Server:** Tomcat9 <br/>
