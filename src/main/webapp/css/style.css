@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.bg-custom {
+	background: #074173;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: white;
+	color: #074173;
+	border-radius: 10px;
+}
+
+.footer-container {
+	color: white;
+	margin-right: 0;
+	padding: 20px 0 10px;
+	text-align: center;
+}
+
+.footer-background {
+	background: black;
+}
+
+.footer-link {
+	color: white;
+}
+
+.div-color {
+	height: 80vh;
+	background: rgb(242, 147, 85);
+	background: linear-gradient(90deg, rgba(242, 147, 85, 1) 7%,
+		rgba(249, 252, 249, 1) 35%, rgba(28, 155, 22, 1) 100%);
+}
+
+
+
+	 
+
